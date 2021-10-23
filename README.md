@@ -1,5 +1,5 @@
 # Reflection
-Reflection for Grocery Frequencies
+Reflection for Grocery Frequencies Program
 
 In this project I was tasked with creating a program that uses C++ (Source.cpp) and Python (PythonCode.py) to help grocery store owners quantify products sold.  The user has four options: print a list of product frequencies, display a particular frequency, display a histogram of the data, or quit.  
 
